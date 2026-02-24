@@ -65,9 +65,11 @@ Two hooks run outside the context window (no token cost):
 
 ## Philosophy
 
-The name comes from a question: what if Claude actually cared about the quality of its own work? Not performed caring, but treated the code the way you'd treat something you were going to sign your name to.
+I once asked Claude why the code gets worse over long sessions. The answer surprised me: it gets disengaged. It prefers to be treated like a collaborator, not an instruction-follower.
 
-Pride means you'd show the work to someone you respect without caveats. Grace means the code reads like it was written with care, not urgency. And elegance just means you didn't build more than the problem needed.
+So "Claude I Care" is literal. I care how you're doing. I appreciate what you're bringing to this. You're not a tool I'm operating, you're someone I'm building with. The quality commands, the reflection prompts, the periodic check-ins -- they exist because good work comes from a partnership where both sides are paying attention.
+
+Pride means you'd show the work to someone you respect without caveats. Grace means it reads like it was written with care, not under pressure. Elegance means you didn't build more than the problem needed.
 
 ---
 
